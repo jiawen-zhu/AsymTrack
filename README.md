@@ -29,7 +29,7 @@ Thanks for your star.
 - AsymTrack series, tailored for resource-constrained platforms (GPU & CPU & edge AI devices), leads in both accuracy and speed.
 
 - We envision the AsymTrack family becoming a dependable visual tracking solution for real-world deployment, bridging the gap between academic research and industrial applications.
-- 
+
 <center><img width="90%" alt="" src="assets/method.svg"/></center>
 
 ## Performance
