@@ -1,5 +1,5 @@
 # Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking [AAAI25]
-Official implementation of [**AsymTrack**](https://arxiv.org/abs/xxx), including models and training&testing codes.
+Official implementation of [**AsymTrack**](https://arxiv.org/abs/2503.00516), including models and training&testing codes.
 
 [Models & Raw Results](https://drive.google.com/drive/folders/18253JykIqLkugA4PhD9oJwt1wlr0rIt7?usp=drive_link)
 (Google Driver)
@@ -119,6 +119,16 @@ Dowmload the pretrained [backbone model](https://drive.google.com/drive/folders/
 ### Speed Testing 
    ```
    python tracking/profile_model_asymtrack.py --script AsymTrack --config tiny
+   ```
+
+### Bixtex
+If you find AsymTrack is helpful for your research, please consider citing:
+   ```
+     @inproceedings{AsymTrack,
+     title={Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking},
+     author={Jiawen, Zhu and Huayi, Tang and Xin, Chen and Xinying, Wang and Dong, Wang and Huchuan, Lu},
+     booktitle={AAAI},
+     year={2025}}
    ```
 
 ## Acknowledgment
